@@ -1,0 +1,6 @@
+<?php
+
+/*
+ * Empty Index File...
+ */
+?>
